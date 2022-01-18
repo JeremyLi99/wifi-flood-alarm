@@ -10,6 +10,10 @@ In addition, these two videos were used to base the code off of:
 * https://randomnerdtutorials.com/esp32-email-alert-temperature-threshold/
 * https://www.youtube.com/watch?v=F1fQ8m3S8-4
 
+## Future Considerations
+* Finding a more secure way of sending emails
+* Developing a mobile application
+
 ## Diagrams
 ![Banana for Ref](https://github.com/JeremyLi99/wifi-flood-alarm/blob/main/slides/Banana%20for%20Ref.jpg)
 * Banana for reference
